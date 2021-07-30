@@ -7,4 +7,4 @@ This application is small example of using Javascript for DOM manipulation. The 
 Simply press "Start Game" to initate and press the corresponding button to add more characters to the ring!
 
 ## Future Roadmap
-The goal for the future is to continually work on the effects until I can achieve extremley realistic results.
+The goal for the future is to continually work on the effects until I can achieve extremely realistic results.
